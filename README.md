@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there, I'm [Jimmy N]() - aka [Jey Neutron]() 👋
+
+- 💻 I’m currently learning anything
+- 🔥 I enjoy Photography and Programming
+- 📫 How to reach me: DM me on [Instagram](http://instagram.com/jey.neutron)
+
+### The languages I use 🤖
+<img alt="jey-neutron's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=jey-neutron&langs_count=7&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=CSS,c%2B%2B,Ren'Py" height="198px"/>
+
 
 <!--
 **jey-neutron/jey-neutron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
