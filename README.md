@@ -1,7 +1,7 @@
 ### Hi there, I'm [Jimmy N]() - aka [Jey Neutron]() 👋
 
 - 💻 I’m currently learning anything
-- 🔥 I enjoy Photography and Programming
+- 🔥 Interested in data science, programming, and oh, photography too
 - 📫 How to reach me: DM me on [Instagram](http://instagram.com/jey.neutron)
 
 ### The languages I use 🤖
